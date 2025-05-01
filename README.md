@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alejandro Contreras!
 - 👀 I’m interested in React projects and web development in general
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on a great work project
+- 🌱 I’m currently learning AI web integrations
+- 💞️ I’m always looking to collaborate on a great project
 - 📫 How to reach me: 
 linkedin.com/in/alejandroacd/
 <!---
